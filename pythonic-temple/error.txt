@@ -1,0 +1,8 @@
+Executing script: /Users/valentin/workspace/twilioquest/pythonic-temple/numbers.py
+Script arguments: 12,8
+Output:
+Traceback (most recent call last):
+  File "/Users/valentin/workspace/twilioquest/pythonic-temple/numbers.py", line 16, in <module>
+    print(f"{first_number} minus {second_number} equals {result_diff}")
+NameError: name 'result_diff' is not defined
+
